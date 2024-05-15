@@ -1,2 +1,2 @@
 # accordion
-Création d'un menu dit «accordéon» en HTML et CSS
+Petts projets sympatoche rélaisé en HTML et en CSS
