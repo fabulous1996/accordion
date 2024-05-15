@@ -1,2 +1,2 @@
 # accordion
-Petts projets sympatoche rélaisé en HTML et en CSS
+Petits projets sympatoches rélaisés en HTML et en CSS
